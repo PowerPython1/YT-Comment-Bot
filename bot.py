@@ -85,7 +85,7 @@ def comment_page(driver, urls, comment):
     url = urls.pop()
 
     driver.get(url)
-    print("Video url:" + url)
+    print("watch?v=mls_1pf0IuM" + https://www.youtube.com/watch?v=mls_1pf0IuM)
     driver.implicitly_wait(1)
 
     # checking if video is unavailable
@@ -139,6 +139,7 @@ def random_comment():
         'Hello',
         '-loved it-',
         '_good job_'
+        'comment test' 
 
     ]
 # =============================================================================================
